@@ -1,0 +1,20 @@
+# Gradle / Android build
+.gradle/
+.kotlin/
+build/
+*/build/
+*.iml
+.idea/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code session data
+.claude/

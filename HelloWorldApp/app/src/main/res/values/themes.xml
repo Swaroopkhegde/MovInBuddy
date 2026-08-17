@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.MovInBuddy" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
